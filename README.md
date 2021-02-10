@@ -7,7 +7,7 @@
 # Jonas Leijoto
 <sub>Engenheiro Químico e estudante de Data Science</sub>
 
-Formado pela Universidade Federal de São Carlos (UFSCar) em janeiro de 2021 tive contato com a Ciência de Dados durante meu estágio de pesquisa na RHI Magnesita para gerenciamento de projetos em Excel e Power BI. Além disso, interpretação de dados de resultados de projetos ligados a inovação e projetos de base técnica faziam parte integrante no dia a dia durante esse período de formação.
+Formado pela Universidade Federal de São Carlos (UFSCar) em janeiro de 2021, tive contato com a Ciência de Dados durante meu estágio de pesquisa na RHI Magnesita para gerenciamento de projetos em Excel e Power BI. Além disso, interpretação de dados de resultados de projetos ligados a inovação e projetos de base técnica faziam parte integrante no dia a dia durante esse período de formação.
 
 A ciência de dados veio para abrir meus horizontes e, por isso, sou aluno do Carlos Melo, do blog Sigmoidal, para desenvolvimento da linguagem Python para esse fim.
 
