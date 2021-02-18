@@ -20,6 +20,6 @@ A ciência de dados veio para abrir meus horizontes e, por isso, sou aluno do Ca
 
 
 ## Projetos:
-* Análise dos dados do Airbnb - Rio de Janeiro : https://bit.ly/3s4z9Ep
+* Análise dos dados do Airbnb - Rio de Janeiro: https://bit.ly/3s4z9Ep
 
 ---
