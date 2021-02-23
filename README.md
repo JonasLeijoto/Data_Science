@@ -15,7 +15,7 @@ A ciência de dados veio para abrir meus horizontes e, por isso, sou aluno do Ca
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jonasleijoto/)
-* [Medium](https://medium.com/@leijoto.jonas)
+* [Medium](leijoto-jonas.medium.com)
 * [Lattes](http://lattes.cnpq.br/9302847012978372)
 
 
